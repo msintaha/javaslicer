@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"de.unisb.cs.st.javaslicer.jung","l":"CreateJungGraphSliceVisitor"},{"p":"de.unisb.cs.st.javaslicer.jung","l":"Line"},{"p":"de.unisb.cs.st.javaslicer.jung","l":"ShowJungGraph"},{"p":"de.unisb.cs.st.javaslicer.jung","l":"SliceEdge"}];updateSearchResults();

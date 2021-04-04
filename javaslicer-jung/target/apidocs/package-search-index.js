@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"de.unisb.cs.st.javaslicer.jung"}];updateSearchResults();

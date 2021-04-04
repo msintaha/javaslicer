@@ -1,0 +1,92 @@
+/usr/local/opt/openjdk/libexec/openjdk.jdk/Contents/Home/bin/javadoc
+@options
+@packages
+-classpath
+'/Users/newscred/.m2/repository/de/unisb/cs/st/javaslicer-traceReader/1.1.1-SNAPSHOT/javaslicer-traceReader-1.1.1-SNAPSHOT.jar:/Users/newscred/.m2/repository/de/unisb/cs/st/javaslicer-common/1.1.1-SNAPSHOT/javaslicer-common-1.1.1-SNAPSHOT.jar:/Users/newscred/.m2/repository/de/unisb/cs/st/sequitur/1.0/sequitur-1.0.jar:/Users/newscred/.m2/repository/commons-cli/commons-cli/1.2/commons-cli-1.2.jar:/Users/newscred/.m2/repository/org/ow2/asm/asm-all/5.0.3/asm-all-5.0.3.jar:/Users/newscred/.m2/repository/de/hammacher/utilities/1.2.10/utilities-1.2.10.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'1.7'
+-sourcepath
+'/Users/newscred/projects/javaslicer/javaslicer-core/src/main/java:/Users/newscred/projects/javaslicer/javaslicer-core/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2008&#x2013;2021 <a href="http://www.st.cs.uni-saarland.de/">Software Engineering Group at Saarland University</a>. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/newscred/projects/javaslicer/javaslicer-core/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Core of the slicing component of JAVASLICER 1.1.1-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/7/docs/api' '/Users/newscred/projects/javaslicer/javaslicer-core/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'Core of the slicing component of JAVASLICER 1.1.1-SNAPSHOT API'
+de.unisb.cs.st.javaslicer.instructionSimulation
+de.unisb.cs.st.javaslicer.instructionSimulation
+de.unisb.cs.st.javaslicer.instructionSimulation
+de.unisb.cs.st.javaslicer.instructionSimulation
+de.unisb.cs.st.javaslicer.instructionSimulation
+de.unisb.cs.st.javaslicer.instructionSimulation
+de.unisb.cs.st.javaslicer.instructionSimulation
+de.unisb.cs.st.javaslicer.instructionSimulation
+de.unisb.cs.st.javaslicer.instructionSimulation
+de.unisb.cs.st.javaslicer.instructionSimulation
+de.unisb.cs.st.javaslicer.instructionSimulation
+de.unisb.cs.st.javaslicer.instructionSimulation
+de.unisb.cs.st.javaslicer.dependenceAnalysis
+de.unisb.cs.st.javaslicer.dependenceAnalysis
+de.unisb.cs.st.javaslicer.dependenceAnalysis
+de.unisb.cs.st.javaslicer.dependenceAnalysis
+de.unisb.cs.st.javaslicer.dependenceAnalysis
+de.unisb.cs.st.javaslicer.dependenceAnalysis
+de.unisb.cs.st.javaslicer.dependenceAnalysis
+de.unisb.cs.st.javaslicer.variables
+de.unisb.cs.st.javaslicer.variables
+de.unisb.cs.st.javaslicer.variables
+de.unisb.cs.st.javaslicer.variables
+de.unisb.cs.st.javaslicer.variables
+de.unisb.cs.st.javaslicer.variables
+de.unisb.cs.st.javaslicer.controlflowanalysis
+de.unisb.cs.st.javaslicer.controlflowanalysis
+de.unisb.cs.st.javaslicer.controlflowanalysis
+de.unisb.cs.st.javaslicer.controlflowanalysis
+de.unisb.cs.st.javaslicer.slicing
+de.unisb.cs.st.javaslicer.slicing
+de.unisb.cs.st.javaslicer.slicing
+de.unisb.cs.st.javaslicer.slicing
+de.unisb.cs.st.javaslicer.slicing
+de.unisb.cs.st.javaslicer.slicing
+de.unisb.cs.st.javaslicer.slicing
+/Users/newscred/.m2/repository/de/unisb/cs/st/javaslicer-traceReader/1.1.1-SNAPSHOT/javaslicer-traceReader-1.1.1-SNAPSHOT.jar = 1617532449699
+/Users/newscred/.m2/repository/de/unisb/cs/st/javaslicer-common/1.1.1-SNAPSHOT/javaslicer-common-1.1.1-SNAPSHOT.jar = 1617532435513
+/Users/newscred/.m2/repository/de/unisb/cs/st/sequitur/1.0/sequitur-1.0.jar = 1617300487084
+/Users/newscred/.m2/repository/commons-cli/commons-cli/1.2/commons-cli-1.2.jar = 1617299721556
+/Users/newscred/.m2/repository/org/ow2/asm/asm-all/5.0.3/asm-all-5.0.3.jar = 1617299658918
+/Users/newscred/.m2/repository/de/hammacher/utilities/1.2.10/utilities-1.2.10.jar = 1617299626393
+/Users/newscred/projects/javaslicer/javaslicer-core/src/main/java = 1617298599087
+/Users/newscred/projects/javaslicer/javaslicer-core/target/generated-sources/annotations = 1617532439475
+/Users/newscred/projects/javaslicer/javaslicer-core/target/apidocs/constant-values.html = 1617532460528
+/Users/newscred/projects/javaslicer/javaslicer-core/target/apidocs/tag-search-index.js = 1617532460736
+/Users/newscred/projects/javaslicer/javaslicer-core/target/apidocs/overview-tree.html = 1617532460664
+/Users/newscred/projects/javaslicer/javaslicer-core/target/apidocs/module-search-index.js = 1617532460734
+/Users/newscred/projects/javaslicer/javaslicer-core/target/apidocs/index.html = 1617532460671
+/Users/newscred/projects/javaslicer/javaslicer-core/target/apidocs/package-search-index.js = 1617532460734
+/Users/newscred/projects/javaslicer/javaslicer-core/target/apidocs/jquery-ui.overrides.css = 1617532460759
+/Users/newscred/projects/javaslicer/javaslicer-core/target/apidocs/index-all.html = 1617532460738
+/Users/newscred/projects/javaslicer/javaslicer-core/target/apidocs/allpackages-index.html = 1617532460745
+/Users/newscred/projects/javaslicer/javaslicer-core/target/apidocs/deprecated-list.html = 1617532460669
+/Users/newscred/projects/javaslicer/javaslicer-core/target/apidocs/member-search-index.js = 1617532460736
+/Users/newscred/projects/javaslicer/javaslicer-core/target/apidocs/script.js = 1617532460751
+/Users/newscred/projects/javaslicer/javaslicer-core/target/apidocs/stylesheet.css = 1617532460750
+/Users/newscred/projects/javaslicer/javaslicer-core/target/apidocs/overview-summary.html = 1617532460747
+/Users/newscred/projects/javaslicer/javaslicer-core/target/apidocs/help-doc.html = 1617532460749
+/Users/newscred/projects/javaslicer/javaslicer-core/target/apidocs/element-list = 1617532460498
+/Users/newscred/projects/javaslicer/javaslicer-core/target/apidocs/allclasses-index.html = 1617532460744
+/Users/newscred/projects/javaslicer/javaslicer-core/target/apidocs/type-search-index.js = 1617532460735
+/Users/newscred/projects/javaslicer/javaslicer-core/target/apidocs/search.js = 1617532460751

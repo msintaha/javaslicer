@@ -1,0 +1,82 @@
+/usr/local/opt/openjdk/libexec/openjdk.jdk/Contents/Home/bin/javadoc
+@options
+@packages
+-classpath
+'/Users/newscred/.m2/repository/commons-collections/commons-collections/3.2.1/commons-collections-3.2.1.jar:/Users/newscred/.m2/repository/de/unisb/cs/st/sequitur/1.0/sequitur-1.0.jar:/Users/newscred/.m2/repository/de/unisb/cs/st/javaslicer-common/1.1.1-SNAPSHOT/javaslicer-common-1.1.1-SNAPSHOT.jar:/Users/newscred/.m2/repository/org/ow2/asm/asm-all/5.0.3/asm-all-5.0.3.jar:/Users/newscred/.m2/repository/de/hammacher/utilities/1.2.10/utilities-1.2.10.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'1.7'
+-sourcepath
+'/Users/newscred/projects/javaslicer/javaslicer-tracer/src/main/java:/Users/newscred/projects/javaslicer/javaslicer-tracer/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2008&#x2013;2021 <a href="http://www.st.cs.uni-saarland.de/">Software Engineering Group at Saarland University</a>. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/newscred/projects/javaslicer/javaslicer-tracer/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'JAVASLICER Tracing Component 1.1.1-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/7/docs/api' '/Users/newscred/projects/javaslicer/javaslicer-tracer/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'JAVASLICER Tracing Component 1.1.1-SNAPSHOT API'
+de.unisb.cs.st.javaslicer.tracer
+de.unisb.cs.st.javaslicer.tracer.traceSequences
+de.unisb.cs.st.javaslicer.tracer.traceSequences.sequitur
+de.unisb.cs.st.javaslicer.tracer.traceSequences.sequitur
+de.unisb.cs.st.javaslicer.tracer.traceSequences.sequitur
+de.unisb.cs.st.javaslicer.tracer.traceSequences
+de.unisb.cs.st.javaslicer.tracer.traceSequences
+de.unisb.cs.st.javaslicer.tracer.traceSequences.gzip
+de.unisb.cs.st.javaslicer.tracer.traceSequences.gzip
+de.unisb.cs.st.javaslicer.tracer.traceSequences.gzip
+de.unisb.cs.st.javaslicer.tracer.traceSequences.uncompressed
+de.unisb.cs.st.javaslicer.tracer.traceSequences.uncompressed
+de.unisb.cs.st.javaslicer.tracer.traceSequences.uncompressed
+de.unisb.cs.st.javaslicer.tracer.traceSequences
+de.unisb.cs.st.javaslicer.tracer.traceSequences
+de.unisb.cs.st.javaslicer.tracer
+de.unisb.cs.st.javaslicer.tracer
+de.unisb.cs.st.javaslicer.tracer.instrumentation
+de.unisb.cs.st.javaslicer.tracer.instrumentation
+de.unisb.cs.st.javaslicer.tracer.instrumentation
+de.unisb.cs.st.javaslicer.tracer.instrumentation
+de.unisb.cs.st.javaslicer.tracer.instrumentation
+de.unisb.cs.st.javaslicer.tracer.instrumentation
+de.unisb.cs.st.javaslicer.tracer.instrumentation
+de.unisb.cs.st.javaslicer.tracer
+de.unisb.cs.st.javaslicer.tracer
+de.unisb.cs.st.javaslicer.tracer
+/Users/newscred/.m2/repository/commons-collections/commons-collections/3.2.1/commons-collections-3.2.1.jar = 1617311763829
+/Users/newscred/.m2/repository/de/unisb/cs/st/sequitur/1.0/sequitur-1.0.jar = 1617300487084
+/Users/newscred/.m2/repository/de/unisb/cs/st/javaslicer-common/1.1.1-SNAPSHOT/javaslicer-common-1.1.1-SNAPSHOT.jar = 1617532435513
+/Users/newscred/.m2/repository/org/ow2/asm/asm-all/5.0.3/asm-all-5.0.3.jar = 1617299658918
+/Users/newscred/.m2/repository/de/hammacher/utilities/1.2.10/utilities-1.2.10.jar = 1617299626393
+/Users/newscred/projects/javaslicer/javaslicer-tracer/src/main/java = 1617298599287
+/Users/newscred/projects/javaslicer/javaslicer-tracer/target/generated-sources/annotations = 1617532453216
+/Users/newscred/projects/javaslicer/javaslicer-tracer/target/apidocs/constant-values.html = 1617532456382
+/Users/newscred/projects/javaslicer/javaslicer-tracer/target/apidocs/tag-search-index.js = 1617532456537
+/Users/newscred/projects/javaslicer/javaslicer-tracer/target/apidocs/overview-tree.html = 1617532456475
+/Users/newscred/projects/javaslicer/javaslicer-tracer/target/apidocs/module-search-index.js = 1617532456535
+/Users/newscred/projects/javaslicer/javaslicer-tracer/target/apidocs/index.html = 1617532456480
+/Users/newscred/projects/javaslicer/javaslicer-tracer/target/apidocs/package-search-index.js = 1617532456535
+/Users/newscred/projects/javaslicer/javaslicer-tracer/target/apidocs/jquery-ui.overrides.css = 1617532456560
+/Users/newscred/projects/javaslicer/javaslicer-tracer/target/apidocs/index-all.html = 1617532456539
+/Users/newscred/projects/javaslicer/javaslicer-tracer/target/apidocs/allpackages-index.html = 1617532456546
+/Users/newscred/projects/javaslicer/javaslicer-tracer/target/apidocs/deprecated-list.html = 1617532456478
+/Users/newscred/projects/javaslicer/javaslicer-tracer/target/apidocs/member-search-index.js = 1617532456536
+/Users/newscred/projects/javaslicer/javaslicer-tracer/target/apidocs/script.js = 1617532456552
+/Users/newscred/projects/javaslicer/javaslicer-tracer/target/apidocs/stylesheet.css = 1617532456551
+/Users/newscred/projects/javaslicer/javaslicer-tracer/target/apidocs/overview-summary.html = 1617532456547
+/Users/newscred/projects/javaslicer/javaslicer-tracer/target/apidocs/help-doc.html = 1617532456550
+/Users/newscred/projects/javaslicer/javaslicer-tracer/target/apidocs/element-list = 1617532456346
+/Users/newscred/projects/javaslicer/javaslicer-tracer/target/apidocs/allclasses-index.html = 1617532456544
+/Users/newscred/projects/javaslicer/javaslicer-tracer/target/apidocs/type-search-index.js = 1617532456536
+/Users/newscred/projects/javaslicer/javaslicer-tracer/target/apidocs/search.js = 1617532456552

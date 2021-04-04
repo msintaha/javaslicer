@@ -1,0 +1,90 @@
+/usr/local/opt/openjdk/libexec/openjdk.jdk/Contents/Home/bin/javadoc
+@options
+@packages
+-classpath
+'/Users/newscred/.m2/repository/org/ow2/asm/asm-all/5.0.3/asm-all-5.0.3.jar:/Users/newscred/.m2/repository/de/hammacher/utilities/1.2.10/utilities-1.2.10.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'1.7'
+-sourcepath
+'/Users/newscred/projects/javaslicer/javaslicer-common/src/main/java:/Users/newscred/projects/javaslicer/javaslicer-common/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2008&#x2013;2021 <a href="http://www.st.cs.uni-saarland.de/">Software Engineering Group at Saarland University</a>. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/newscred/projects/javaslicer/javaslicer-common/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Common classes of the JAVASLICER components 1.1.1-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/7/docs/api' '/Users/newscred/projects/javaslicer/javaslicer-common/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'Common classes of the JAVASLICER components 1.1.1-SNAPSHOT API'
+de.unisb.cs.st.javaslicer.common.progress
+de.unisb.cs.st.javaslicer.common.progress
+de.unisb.cs.st.javaslicer.common.progress
+de.unisb.cs.st.javaslicer.common.progress
+de.unisb.cs.st.javaslicer.common.progress
+de.unisb.cs.st.javaslicer.common.util
+de.unisb.cs.st.javaslicer.common.exceptions
+de.unisb.cs.st.javaslicer.common
+de.unisb.cs.st.javaslicer.common.classRepresentation
+de.unisb.cs.st.javaslicer.common.classRepresentation.instructions
+de.unisb.cs.st.javaslicer.common.classRepresentation.instructions
+de.unisb.cs.st.javaslicer.common.classRepresentation.instructions
+de.unisb.cs.st.javaslicer.common.classRepresentation.instructions
+de.unisb.cs.st.javaslicer.common.classRepresentation.instructions
+de.unisb.cs.st.javaslicer.common.classRepresentation.instructions
+de.unisb.cs.st.javaslicer.common.classRepresentation.instructions
+de.unisb.cs.st.javaslicer.common.classRepresentation.instructions
+de.unisb.cs.st.javaslicer.common.classRepresentation.instructions
+de.unisb.cs.st.javaslicer.common.classRepresentation.instructions
+de.unisb.cs.st.javaslicer.common.classRepresentation.instructions
+de.unisb.cs.st.javaslicer.common.classRepresentation.instructions
+de.unisb.cs.st.javaslicer.common.classRepresentation.instructions
+de.unisb.cs.st.javaslicer.common.classRepresentation.instructions
+de.unisb.cs.st.javaslicer.common.classRepresentation.instructions
+de.unisb.cs.st.javaslicer.common.classRepresentation.instructions
+de.unisb.cs.st.javaslicer.common.classRepresentation
+de.unisb.cs.st.javaslicer.common.classRepresentation
+de.unisb.cs.st.javaslicer.common.classRepresentation
+de.unisb.cs.st.javaslicer.common.classRepresentation
+de.unisb.cs.st.javaslicer.common.classRepresentation
+de.unisb.cs.st.javaslicer.common.classRepresentation
+de.unisb.cs.st.javaslicer.common.classRepresentation
+de.unisb.cs.st.javaslicer.common.classRepresentation
+de.unisb.cs.st.javaslicer.common.classRepresentation
+de.unisb.cs.st.javaslicer.common.classRepresentation
+de.unisb.cs.st.javaslicer.common.classRepresentation
+de.unisb.cs.st.javaslicer.common.classRepresentation
+/Users/newscred/.m2/repository/org/ow2/asm/asm-all/5.0.3/asm-all-5.0.3.jar = 1617299658918
+/Users/newscred/.m2/repository/de/hammacher/utilities/1.2.10/utilities-1.2.10.jar = 1617299626393
+/Users/newscred/projects/javaslicer/javaslicer-common/src/main/java = 1617298599078
+/Users/newscred/projects/javaslicer/javaslicer-common/target/generated-sources/annotations = 1617532433894
+/Users/newscred/projects/javaslicer/javaslicer-common/target/apidocs/constant-values.html = 1617532437472
+/Users/newscred/projects/javaslicer/javaslicer-common/target/apidocs/tag-search-index.js = 1617532437696
+/Users/newscred/projects/javaslicer/javaslicer-common/target/apidocs/overview-tree.html = 1617532437612
+/Users/newscred/projects/javaslicer/javaslicer-common/target/apidocs/module-search-index.js = 1617532437694
+/Users/newscred/projects/javaslicer/javaslicer-common/target/apidocs/index.html = 1617532437618
+/Users/newscred/projects/javaslicer/javaslicer-common/target/apidocs/package-search-index.js = 1617532437694
+/Users/newscred/projects/javaslicer/javaslicer-common/target/apidocs/jquery-ui.overrides.css = 1617532437719
+/Users/newscred/projects/javaslicer/javaslicer-common/target/apidocs/serialized-form.html = 1617532437478
+/Users/newscred/projects/javaslicer/javaslicer-common/target/apidocs/index-all.html = 1617532437698
+/Users/newscred/projects/javaslicer/javaslicer-common/target/apidocs/allpackages-index.html = 1617532437704
+/Users/newscred/projects/javaslicer/javaslicer-common/target/apidocs/deprecated-list.html = 1617532437615
+/Users/newscred/projects/javaslicer/javaslicer-common/target/apidocs/member-search-index.js = 1617532437695
+/Users/newscred/projects/javaslicer/javaslicer-common/target/apidocs/script.js = 1617532437710
+/Users/newscred/projects/javaslicer/javaslicer-common/target/apidocs/stylesheet.css = 1617532437710
+/Users/newscred/projects/javaslicer/javaslicer-common/target/apidocs/overview-summary.html = 1617532437706
+/Users/newscred/projects/javaslicer/javaslicer-common/target/apidocs/help-doc.html = 1617532437709
+/Users/newscred/projects/javaslicer/javaslicer-common/target/apidocs/element-list = 1617532437439
+/Users/newscred/projects/javaslicer/javaslicer-common/target/apidocs/allclasses-index.html = 1617532437703
+/Users/newscred/projects/javaslicer/javaslicer-common/target/apidocs/type-search-index.js = 1617532437694
+/Users/newscred/projects/javaslicer/javaslicer-common/target/apidocs/search.js = 1617532437711
